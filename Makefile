@@ -7,7 +7,7 @@ abstract.pdf : abstract.md
 	pandoc --template template.latex abstract.md -o abstract.pdf
 
 README.md : abstract.md
-	cp abstract.md README.md
+	pandoc -t markdown_github abstract.md -o README.md
 
 clean :
 	rm abstract.pdf abstract.docx README.md
