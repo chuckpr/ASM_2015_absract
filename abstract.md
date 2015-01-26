@@ -3,7 +3,7 @@ Biological soil crusts (BSC) are key components of ecosystem productivity
 contributing significantly to the nitrogen (N) budget of arid ecosystems. BSC
 N~2~-fixation is attributed to heterocystous cyanobacteria and BSC diazotrophs
 from early-successional and mature crusts have been extensively studied by
-profiling BSC nifH gene content. Published surveys of BSC *nifH* gene content
+profiling BSC *nifH* gene content. Published surveys of BSC *nifH* gene content
 show *nifH* genes PCR amplified and sequenced from BSC are predominantly
 cyanobacterial. Early successional crusts possess few N~2~-fixing cyanobacteria
 but can fix N~2~ at rates comparable to mature crusts where heterocystous
